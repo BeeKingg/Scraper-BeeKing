@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """⚡ Selamat Datang di MyTelegramOrgROBOT ⚡
-Jika Kamu Ingin Membuat APP ID & API HASH Disini,
-Silahkan ketik Nomor HP Pada Akun Telegram Anda disini.
+Kamu Ingin Membuat APP ID & API HASH ?
+Silahkan Kirim Nomor HP Pada Akun Telegram Anda Disini.
 Wajib Menggunakan (+62).
 📑 Noted : Ketik atau Pencet /start Pada Tahap Manapun Untuk Memasukkan Kembali Detail Anda Jika Terjadi Kesalahan.
 """
