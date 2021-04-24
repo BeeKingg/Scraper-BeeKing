@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-### ⚠ legal DISclaimER 🚸
+### ⚠ Legal Disclaimer 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
@@ -58,8 +58,6 @@ python3 bot.py
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
-
 
 ## Learning
 
