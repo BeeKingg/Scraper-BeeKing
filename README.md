@@ -13,13 +13,6 @@ Please treat your APP ID and API HASH with care, and ensure that they do not fal
   - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
 
 
-## Installing
-
-#### The Easy Way
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-
 #### The Legacy Way
 
 - Clone the repository, locally.
