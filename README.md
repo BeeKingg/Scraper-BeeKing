@@ -3,7 +3,7 @@
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
 ### ⚠ Legal Disclaimer 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
+Please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
@@ -22,34 +22,34 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 #### The Legacy Way
 
-- clone the repository, locally.
+- Clone the repository, locally.
 ```sh
 git clone https://GitHub.com/KENZO-404/MyTelegramOrgROBOT.git
 ```
 
-- change the directory.
+- Change the directory.
 ```sh
 cd MyTelegramOrgROBOT
 ```
 
-- create a virtual environment.
+- Create a virtual environment.
 ```sh
 virtualenv -p /usr/bin/python3 venv
 ```
 
-- activate the virtual environment.
+- Activate the virtual environment.
 ```sh
 . ./venv/bin/activate
 ```
 
-- install the requirements.
+- Install the requirements.
 ```sh
 pip install -r requirements.txt
 ```
 
-- create config.py
+- Create config.py
 
-- run the bot
+- Run the bot
 ```sh
 python3 bot.py
 ```
