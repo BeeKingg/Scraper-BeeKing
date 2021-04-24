@@ -54,7 +54,7 @@ python3 bot.py
 
 ## Learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+Check out the [helper_funcs](https://github.com/KENZO-404/MyTelegramOrgROBOT/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
 [AGPLv3](https://github.com/KENZO-404/MyTelegramOrgROBOT/tree/master/LICENSE)
