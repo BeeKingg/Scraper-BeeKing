@@ -1,14 +1,20 @@
 class Translation(object):
-    START_TEXT = """⚡ Selamat Datang di MyTelegramOrgROBOT ⚡
+    START_TEXT = """⚡ Selamat Datang di my.telegram.org ROBOT ⚡
+
 Kamu Ingin Membuat APP ID & API HASH ?
-Silahkan Kirim Nomor HP Pada Akun Telegram Anda Disini.
-Wajib Menggunakan (+62).
-📑 Noted : Ketik atau Pencet /start Pada Tahap Manapun Untuk Memasukkan Kembali Detail Anda Jika Terjadi Kesalahan.
+Silahkan Kirim Nomor Telepon Akun Telegram Kamu Disini.
+Wajib Menggunakan (+62)
+
+
+📑 Noted : Ketik atau Tekan /start Pada Tahap Manapun Untuk Memasukkan Kembali Registrasi Anda Jika Terjadi Kesalahan.
 """
     AFTER_RECVD_CODE_TEXT = """✔️ Berhasil...
-Silahkan Cek Pesan Masuk di Telegram Kamu, Ambil Kode Yang Telah Dikirim Oleh Pihak Telegram!
+
+Silahkan Check Pesan Masuk di Telegram Kamu, Ambil Kode Yang Telah Dikirimkan Oleh Pihak Telegram!
 Jika Sudah Di Copy, Silahkan Kirim Kode Kamu Disini.
-📑 Noted : Ketik atau Pencet /start Pada Tahap Manapun Untuk Memasukkan Kembali Detail Anda Jika Terjadi Kesalahan.
+
+
+📑 Noted : Ketik atau Tekan /start Pada Tahap Manapun Untuk Memasukkan Kembali Registrasi Anda Jika Terjadi Kesalahan.
 """
     BEFORE_SUCC_LOGIN = "Mendapatkan Kode. Scarpping web page ..."
     ERRED_PAGE = "Terjadi error. Gagal untuk mendapatkan app id. \n\nSilahkan Hubungi @SyndicateTwenty4"
