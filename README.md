@@ -67,3 +67,7 @@ Check out the [helper_funcs](https://github.com/KENZO-404/MyTelegramOrgROBOT/tre
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [SpEcHlDe](https://tx.me/SpEcHlDe)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
